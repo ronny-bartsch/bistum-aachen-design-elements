@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+
+      .cls-1 {
+        fill: #fff;
+        font-family: DMSans-Bold, 'DM Sans', sans-serif;
+        font-size: 28px;
+        font-variation-settings: 'opsz' 14, 'wght' 700;
+        font-weight: 700;
+      }
+
+      .cls-5 {
+        fill: #60acb5;
+        stroke: #f2f2f2;
+        stroke-linejoin: round;
+        stroke-width: 6px;
+      }
+    </style>
+  </defs>
+  <path class="cls-5" d="M504.47,72.78l-81.61,16.4-10.88-29.98-19.04,26.35-50.78,8.16-112.45-5.44-20.85,5.44-105.2-15.32v-9.4l-2.6.98c-8.18,14.98-16.45,29.19-16.45,29.19L17.5,196.4l10.88,8.85-5.44,15.41-5.44,3.63v14.51l-6.34,4.53v20.85l-8.16,15.41,9.06,4.86.91,13.27h12.69l2.56,18.77.16,1.18-2.25,26.35,5.89.85h9.97l7.26,5.44,28.11-13.6v13.6h25.39l10.92,7.51,3.15,2.17,21.3-16.95,6.35,5.3,26.92-7.11,44.71,12.69,19.04,17.23v11.78l70.73,69.83,64.39-58.03h17.23l6.34-16.32v-25.39l32.65-8.16v-8.16l37.63-10.88,19.5,14.5v-19.26l-19.5-4.31-14.06-14.5-19.03-25.4-10.88-37.18,26.3-11.78-14.51-19.01,16.32-20.89,15.87-15.42h19.5l6.34-11.78h19.04v-88.95l-4.53.91Z"/>
+  <text class="cls-1" text-anchor="middle" alignment-baseline="central">
+    <tspan x="236" y="200">Achen-Nord/</tspan>
+    <tspan x="236" y="242">Ost-Eilendorf</tspan>
+  </text>
+</svg>
