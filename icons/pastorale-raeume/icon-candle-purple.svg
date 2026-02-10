@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 40 40">
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #14ffe3;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .st1 {
+        fill: #260a3b;
+      }
+    </style>
+  </defs>
+  <circle class="st1" cx="20" cy="20" r="20"/>
+  <path class="st0" d="M20,10c.73,3.28,7.93,9.57,2,11.16.83-1.83-1.58-3.92-2-4.6-.42.68-2.83,2.77-2,4.6-5.93-1.59,1.27-7.89,2-11.16M25.77,30v-4.4c0-.96-.79-1.75-1.75-1.75-2.63.5-5.31.5-8.04,0-.96,0-1.75.79-1.75,1.75v4.4"/>
+</svg>

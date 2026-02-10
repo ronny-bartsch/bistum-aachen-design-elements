@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 40 40">
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #14ffe3;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+
+      .st1 {
+        fill: #260a3b;
+      }
+    </style>
+  </defs>
+  <circle class="st1" cx="20" cy="20" r="20"/>
+  <g id="Style_x3D_Line">
+    <path id="Vector" class="st0" d="M30,28.33c0-1.93-1.86-3.58-4.44-4.19M23.33,28.33c0-2.46-2.98-4.44-6.67-4.44s-6.67,1.99-6.67,4.44M23.33,20.56c2.46,0,4.44-1.99,4.44-4.44s-1.99-4.44-4.44-4.44M16.67,20.56c-2.46,0-4.44-1.99-4.44-4.44s1.99-4.44,4.44-4.44,4.44,1.99,4.44,4.44-1.99,4.44-4.44,4.44Z"/>
+  </g>
+</svg>
